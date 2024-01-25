@@ -2,6 +2,6 @@
 
 * Primera semana -> Lorem ipsum
 
-* Segunda semana ->
+* Segunda semana -> Texto random
 
 * Tercera semana ->
