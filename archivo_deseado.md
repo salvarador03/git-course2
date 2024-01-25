@@ -1,6 +1,6 @@
 # Seguimiento prácticas dual
 
-* Primera semana -> 
+* Primera semana -> Lorem ipsum
 
 * Segunda semana ->
 
