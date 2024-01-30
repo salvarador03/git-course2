@@ -1,4 +1,4 @@
 ##### AQUI VAN TODOS LOS ARCHIVOS QUE NO QUIERO QUE SEAN TRACKEADOS
 
 imagenes/
-no_trackear.txt
+*.txt
