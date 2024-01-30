@@ -1,1 +1,2 @@
-Sergio, Pablo, Miguel Angel, Sara.
+Primeros nombres:Sergio, Pablo, Miguel Angel, Sara.
+Segundos nombres:Jose, Juan, Antonio, Angel.
